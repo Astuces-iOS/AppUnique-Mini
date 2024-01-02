@@ -2,7 +2,7 @@
 
 <img width="64" alt="Image" src="https://github.com/Astuces-iOS/AppUnique-Mini/assets/133143751/6ecfb427-ee1f-44b2-8a9d-72f142bd386a">
 
-Découvrez AppUnique en format mini !!
+Découvrez AppUnique en format mini !! _Disponible prochainement_
 
 # 📙 À Propos
 
