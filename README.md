@@ -1,7 +1,6 @@
 # AppUnique-Mini
 
-<img width="64" alt="Image" src="https://github.com/Astuces-iOS/AppUnique/assets/133143751/f46caf56-1db8-4e0e-a7cc-5bd4c8a72c1e">
-
+<img width="64" alt="Image" src="https://github.com/Astuces-iOS/AppUnique-Mini/assets/133143751/6ecfb427-ee1f-44b2-8a9d-72f142bd386a">
 
 Découvrez AppUnique en format mini !!
 
